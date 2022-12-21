@@ -5,7 +5,8 @@ Many travelers now have access to fantastic, simple, and convenient lodging than
 <h3>Data Analysis Carried Out:</h3>
 Problem Statement 1: Extracted different types of room which are available in our dataset from 48995 data values available. From that Analyzed and predicted top 3 locations with individual room types, host name, near by location, 300+ days availability, price less than 100 and maximum number of reviews.
 
-Problem Statement 2: Predicted top five popular Airbnb locations to visit under high rated host and also total nights spend by tourist at this location. Additionally, inspected the high rated host for the aforesaid locations
+Problem Statement 2: Predicted top five popular Airbnb locations to visit under high rated host and also total nights spend by tourist at this location. Additionally, inspected the high rated host for the aforesaid locations.
+
 Problem Statement 3: Analyzed our dataset and exhibit number of houses at simultaneous location owned by host and furthermore providing total summation of houses that is total count of all houses owned by host at all locations.
 
 <h3>Implementation:</h3>
