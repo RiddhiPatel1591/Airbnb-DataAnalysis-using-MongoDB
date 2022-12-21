@@ -10,4 +10,5 @@ Problem Statement 2: Predicted top five popular Airbnb locations to visit under 
 Problem Statement 3: Analyzed our dataset and exhibit number of houses at simultaneous location owned by host and furthermore providing total summation of houses that is total count of all houses owned by host at all locations.
 
 <h3>Implementation:</h3>
+
 Created Database considering that documents are stored in JSON format in MongoDB and since our dataset is in csv file, we created our collection and passed our csv file to MongoDB and we got our dataset in JSON format. Mongo db provides its own schema visualization for better understanding. By analyzing different filters and understanding graphs we made contemplative query analysis. Furthermore, we used python with MongoDB for the implementation of the system. For better visualization and understanding we used Pycharm with MongoDB Database. Having access to various python libraries allows us to perform complex tasks. To access the MongoDB database, Python needs a MongoDB driver. To use the Mongo Client tool, we imported the pymongo module into the PyCharm program on our local computer
